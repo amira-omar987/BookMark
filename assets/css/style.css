@@ -1,0 +1,38 @@
+h1 {
+  font-family: "Pacifico", cursive;
+
+}
+
+h2 {
+  font-family: "Righteous", sans-serif;
+  color: #3ea55c;
+}
+
+body {
+  font-family: "PT Sans", sans-serif;
+  background-color: #f7ecde;
+}
+
+span {
+  font-family: "Righteous", sans-serif;
+
+  color: #b1ab49;
+}
+
+.content i {
+  font-size: 2rem;
+}
+.icon1 {
+  color: #3ea55c;
+}
+.icon2 {
+  color: #b1ab49;
+}
+
+.bookmark-body {
+  border-width: 1.5px;
+  border-style: dotted;
+  border-color: black;
+}
+
+
